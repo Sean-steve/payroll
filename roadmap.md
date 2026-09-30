@@ -1,0 +1,3 @@
+- [x] Match the portal's visible VeloraHR branding to the supplied logo and website.
+- [x] Remove unrelated organization names and promotional presentation copy.
+- [x] Check the portal on desktop and mobile and confirm the presentation screens still work.
